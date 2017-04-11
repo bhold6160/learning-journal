@@ -1,0 +1,2 @@
+# LJ Code 301 - Day 1
+Today was my first day of code 301, I was a little nervous going into the first class since I have been on a break for 3 weeks now and the only coding I did in that period was making some changes to CSS on my website from my final 201 project. But much to my surprise I was able to pick right back up where I left off. So far I am liking this class and I'm really liking the switch from night track to day track.
